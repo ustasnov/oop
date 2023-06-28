@@ -1,0 +1,32 @@
+{
+  "name": "oop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ustasnov/oop.git"
+  },
+  "author": "ustasnov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ustasnov/oop/issues"
+  },
+  "homepage": "https://github.com/ustasnov/oop#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.22.5",
+    "@babel/core": "^7.22.5",
+    "@babel/preset-env": "^7.22.5",
+    "eslint": "^8.43.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "jest": "^29.5.0",
+    "jest-babel": "^1.0.1"
+  },
+  "dependencies": {
+    "core-js": "^3.31.0"
+  }
+}
